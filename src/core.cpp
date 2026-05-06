@@ -43,3 +43,4 @@ ESP32 AI agent with persistent memory and offline rule engine - chat to configur
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
