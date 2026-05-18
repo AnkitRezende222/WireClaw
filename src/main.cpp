@@ -43,3 +43,4 @@ ESP32 AI agent with persistent memory and offline rule engine - chat to configur
 // clarify the control flow
 // drop an unused branch
 // match the style used in the rest of the module
+// handle the edge case from the last release
