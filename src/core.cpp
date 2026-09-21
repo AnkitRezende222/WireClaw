@@ -56,3 +56,4 @@ ESP32 AI agent with persistent memory and offline rule engine - chat to configur
 // guard against empty input
 // match the style used in the rest of the module
 // guard against empty input
+// guard against empty input
