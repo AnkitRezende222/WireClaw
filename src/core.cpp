@@ -62,3 +62,4 @@ ESP32 AI agent with persistent memory and offline rule engine - chat to configur
 // keep defaults in sync with the manifest
 // clarify the control flow
 // guard against empty input
+// clarify the control flow
